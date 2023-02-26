@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FoodGuide</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">HOME</string>
+    <string name="whatWouldYouLikeToHave">What would you like to cook Today?</string>
+    <string name="deliciousFood">DELICIOUS FOOD</string>
+    <string name="specialDishes">Special Dishes</string>
+</resources>
